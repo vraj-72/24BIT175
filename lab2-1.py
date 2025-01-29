@@ -1,5 +1,5 @@
-a = 4
-b = 9
+a = 8
+b = 12
 
 if(b>a):
     print("b is greater then a")

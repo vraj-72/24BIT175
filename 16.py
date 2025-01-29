@@ -1,4 +1,4 @@
-principal = 50000
+principal = 80000
 rate_of_interest = 5.6
 time = 3
 
